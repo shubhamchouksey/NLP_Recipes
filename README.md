@@ -35,3 +35,16 @@ Natural Language Processing Recipes is your handy problem-solution reference for
    - Term Frequency-Inverse Document Frequency(TF-IDF)
    - Word embedding
    - Implementing fastText
+  
+5. See [Chapter 4: Advanced Natural Language Processing](https://github.com/shubhamchouksey/NLP_Recipes/tree/master/Advanced_Natural_Language_Processing) In this chapter, we are going to cover various advanced NLP techniques and leverage machine learning algorithm to extract information from text data as well as some of the Advanced NLP applications with the solution approach and implementation. 
+   - Noun Phrase extraction
+   - Text similarity
+   - Parts of speech tagging
+   - Information extraction - NER - Entity recognition
+   - Topic Modeling
+   - Text classification
+   - Sentiment analysis
+   - Word sense disambiguation
+   - Speech recognition and speech to text
+   - Text to speech
+   - Language detection and translation
