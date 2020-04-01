@@ -48,3 +48,10 @@ Natural Language Processing Recipes is your handy problem-solution reference for
    - Speech recognition and speech to text
    - Text to speech
    - Language detection and translation
+   
+## Reference
+
+[*Natural Language Processing Recipes*](https://www.apress.com/9781484242667) by Akshay Kulkarni and Adarsha Shivananda (Apress, 2019).
+
+[comment]: #cover
+![Cover image](9781484242667.jpg)
