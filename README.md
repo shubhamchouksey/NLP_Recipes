@@ -25,6 +25,13 @@ Natural Language Processing Recipes is your handy problem-solution reference for
    - Lemmatization 
    - Exploratory data analysis
    - End-to-end processing pipeline
- 
-
-4. 
+   
+4. See [Chapter 3: Converting Text to Features](https://github.com/shubhamchouksey/NLP_Recipes/tree/master/Converting_text_to_features) In this chapter, we are going to cover basic to advanced feature engineering(text to features) methods
+   - One Hot encoding
+   - Count Vectorizer
+   - N-grams
+   - Co-occurence matrix
+   - Hash vectorizer
+   - Term Frequency-Inverse Document Frequency(TF-IDF)
+   - Word embedding
+   - Implementing fastText
